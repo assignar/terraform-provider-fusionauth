@@ -1,4 +1,4 @@
-module github.com/gpsinsight/terraform-provider-fusionauth
+module github.com/assignar/terraform-provider-fusionauth
 
 go 1.18
 
