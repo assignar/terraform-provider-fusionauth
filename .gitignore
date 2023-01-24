@@ -33,3 +33,4 @@ coverage.out
 __debug_bin
 notes.md
 .Env
+.goreleaser.yml
